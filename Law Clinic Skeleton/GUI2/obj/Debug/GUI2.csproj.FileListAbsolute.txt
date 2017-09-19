@@ -1,0 +1,20 @@
+\\ict.ru.ac.za\dfs\UGHomes\G17C0339\my documents\visual studio 2015\Projects\GUI\GUI2\bin\Debug\GUI2.exe.config
+\\ict.ru.ac.za\dfs\UGHomes\G17C0339\my documents\visual studio 2015\Projects\GUI\GUI2\bin\Debug\GUI2.exe
+\\ict.ru.ac.za\dfs\UGHomes\G17C0339\my documents\visual studio 2015\Projects\GUI\GUI2\bin\Debug\GUI2.pdb
+\\ict.ru.ac.za\dfs\UGHomes\G17C0339\my documents\visual studio 2015\Projects\GUI\GUI2\obj\Debug\GUI2.csprojResolveAssemblyReference.cache
+\\ict.ru.ac.za\dfs\UGHomes\G17C0339\my documents\visual studio 2015\Projects\GUI\GUI2\obj\Debug\MainWindow.g.cs
+\\ict.ru.ac.za\dfs\UGHomes\G17C0339\my documents\visual studio 2015\Projects\GUI\GUI2\obj\Debug\App.g.cs
+\\ict.ru.ac.za\dfs\UGHomes\G17C0339\my documents\visual studio 2015\Projects\GUI\GUI2\obj\Debug\GUI2_MarkupCompile.cache
+\\ict.ru.ac.za\dfs\UGHomes\G17C0339\my documents\visual studio 2015\Projects\GUI\GUI2\obj\Debug\GUI2_MarkupCompile.lref
+\\ict.ru.ac.za\dfs\UGHomes\G17C0339\my documents\visual studio 2015\Projects\GUI\GUI2\obj\Debug\MainWindow.baml
+\\ict.ru.ac.za\dfs\UGHomes\G17C0339\my documents\visual studio 2015\Projects\GUI\GUI2\obj\Debug\GUI2.g.resources
+\\ict.ru.ac.za\dfs\UGHomes\G17C0339\my documents\visual studio 2015\Projects\GUI\GUI2\obj\Debug\GUI2.Properties.Resources.resources
+\\ict.ru.ac.za\dfs\UGHomes\G17C0339\my documents\visual studio 2015\Projects\GUI\GUI2\obj\Debug\GUI2.csproj.GenerateResource.Cache
+\\ict.ru.ac.za\dfs\UGHomes\G17C0339\my documents\visual studio 2015\Projects\GUI\GUI2\obj\Debug\GUI2.exe
+\\ict.ru.ac.za\dfs\UGHomes\G17C0339\my documents\visual studio 2015\Projects\GUI\GUI2\obj\Debug\GUI2.pdb
+\\ict.ru.ac.za\DFS\UGHomes\g17c0339\Desktop\CompSci\PROJECT\GUI\GUI2\bin\Debug\GUI2.exe.config
+\\ict.ru.ac.za\DFS\UGHomes\g17c0339\Desktop\CompSci\PROJECT\GUI\GUI2\obj\Debug\GUI2.exe
+\\ict.ru.ac.za\DFS\UGHomes\g17c0339\Desktop\CompSci\PROJECT\GUI\GUI2\obj\Debug\GUI2.pdb
+C:\Users\g17p9403\Downloads\GUI\GUI2\bin\Debug\GUI2.exe.config
+C:\Users\g17p9403\Downloads\GUI\GUI2\obj\Debug\GUI2.exe
+C:\Users\g17p9403\Downloads\GUI\GUI2\obj\Debug\GUI2.pdb
