@@ -1,0 +1,280 @@
+C:\Users\g17p9403\Downloads\GUI\GUI2\bin\Debug\GUI2.exe.config
+C:\Users\g17p9403\Downloads\GUI\GUI2\obj\Debug\GUI2.exe
+C:\Users\g17p9403\Downloads\GUI\GUI2\obj\Debug\GUI2.pdb
+C:\Users\g17p9403\Downloads\GUI\GUI2\bin\Debug\GUI2.exe
+C:\Users\g17p9403\Downloads\GUI\GUI2\bin\Debug\GUI2.pdb
+C:\Users\g17p9403\Downloads\GUI\GUI2\obj\Debug\MeansTest.csprojResolveAssemblyReference.cache
+C:\Users\g17p9403\Downloads\GUI\GUI2\obj\Debug\MainWindow.g.cs
+C:\Users\g17p9403\Downloads\GUI\GUI2\obj\Debug\App.g.cs
+C:\Users\g17p9403\Downloads\GUI\GUI2\obj\Debug\GUI2_MarkupCompile.cache
+C:\Users\g17p9403\Downloads\GUI\GUI2\obj\Debug\GUI2_MarkupCompile.lref
+C:\Users\g17p9403\Downloads\GUI\GUI2\obj\Debug\MainWindow.baml
+C:\Users\g17p9403\Downloads\GUI\GUI2\obj\Debug\GUI2.g.resources
+C:\Users\g17p9403\Downloads\GUI\GUI2\obj\Debug\GUI2.Properties.Resources.resources
+C:\Users\g17p9403\Downloads\GUI\GUI2\obj\Debug\MeansTest.csproj.GenerateResource.Cache
+C:\Users\Matthew\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\GUI2.exe.config
+C:\Users\Matthew\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\GUI2.exe
+C:\Users\Matthew\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\GUI2.pdb
+C:\Users\Matthew\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.csprojResolveAssemblyReference.cache
+C:\Users\Matthew\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\InitialCapture.g.cs
+C:\Users\Matthew\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MainWindow.g.cs
+C:\Users\Matthew\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\App.g.cs
+C:\Users\Matthew\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\GUI2_MarkupCompile.cache
+C:\Users\Matthew\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\GUI2_MarkupCompile.lref
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.csprojResolveAssemblyReference.cache
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\InitialCapture.g.cs
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\App.g.cs
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\InitialCapture.baml
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.csproj.GenerateResource.Cache
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.exe.config
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.exe
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.pdb
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest_MarkupCompile.cache
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest_MarkupCompile.lref
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.g.resources
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.Properties.Resources.resources
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.exe
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.pdb
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\Appointments.g.cs
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\HomeScreen.g.cs
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.dll
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Core.dll
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.dll
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.xml
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.xml
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Core.xml
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\Appointments.baml
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\HomeScreen.baml
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MainWindow.g.cs
+C:\Users\g17p9403\Downloads\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MainWindow.baml
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.exe.config
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.exe
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.pdb
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.exe
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.pdb
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.dll
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Calendar.v3.dll
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Core.dll
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.dll
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.PlatformServices.dll
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Newtonsoft.Json.dll
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.xml
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.xml
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Calendar.v3.xml
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Core.xml
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Newtonsoft.Json.xml
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.csprojResolveAssemblyReference.cache
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\Appointments.g.cs
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\HomeScreen.g.cs
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\InitialCapture.g.cs
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MainWindow.g.cs
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\App.g.cs
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest_MarkupCompile.cache
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest_MarkupCompile.lref
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\Appointments.baml
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\HomeScreen.baml
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\InitialCapture.baml
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MainWindow.baml
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.g.resources
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.Properties.Resources.resources
+H:\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.csproj.GenerateResource.Cache
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.exe.config
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.exe
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.pdb
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.exe
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.pdb
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Calendar.v3.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Core.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.PlatformServices.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.DataGrid.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.xml
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.xml
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Calendar.v3.xml
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Core.xml
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.csprojResolveAssemblyReference.cache
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\Appointments.g.cs
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\HomeScreen.g.cs
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\InitialCapture.g.cs
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MainWindow.g.cs
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\App.g.cs
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest_MarkupCompile.cache
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest_MarkupCompile.lref
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\Appointments.baml
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\HomeScreen.baml
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\InitialCapture.baml
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MainWindow.baml
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.g.resources
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.Properties.Resources.resources
+C:\Users\Ryan Desktop\Desktop\CodingNinjas\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.csproj.GenerateResource.Cache
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.exe.config
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.exe
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.pdb
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.exe
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.pdb
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Calendar.v3.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Core.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.PlatformServices.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Newtonsoft.Json.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.DataGrid.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.Toolkit.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.xml
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.xml
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Calendar.v3.xml
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Core.xml
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Newtonsoft.Json.xml
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.csprojResolveAssemblyReference.cache
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\Appointments.g.cs
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\HomeScreen.g.cs
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\InitialCapture.g.cs
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MainWindow.g.cs
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\App.g.cs
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest_MarkupCompile.cache
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest_MarkupCompile.lref
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\Appointments.baml
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\HomeScreen.baml
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\InitialCapture.baml
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MainWindow.baml
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.g.resources
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.Properties.Resources.resources
+H:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.csproj.GenerateResource.Cache
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.exe.config
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.exe
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.pdb
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.exe
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.pdb
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Calendar.v3.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Core.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.PlatformServices.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Newtonsoft.Json.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.DataGrid.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.Toolkit.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.xml
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.xml
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Calendar.v3.xml
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Core.xml
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Newtonsoft.Json.xml
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.csprojResolveAssemblyReference.cache
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\Appointments.g.cs
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\HomeScreen.g.cs
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\InitialCapture.g.cs
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MainWindow.g.cs
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\App.g.cs
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest_MarkupCompile.cache
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest_MarkupCompile.lref
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\Appointments.baml
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\HomeScreen.baml
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\InitialCapture.baml
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MainWindow.baml
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.g.resources
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.Properties.Resources.resources
+E:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.csproj.GenerateResource.Cache
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.exe.config
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.exe
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\MeansTest.pdb
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.PlatformServices.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Calendar.v3.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Core.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.PlatformServices.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Newtonsoft.Json.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.AvalonDock.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.DataGrid.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Xceed.Wpf.Toolkit.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.xml
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Auth.xml
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Calendar.v3.xml
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Google.Apis.Core.xml
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\Newtonsoft.Json.xml
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.csprojResolveAssemblyReference.cache
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\Appointments.g.cs
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\HomeScreen.g.cs
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\InitialCapture.g.cs
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MainWindow.g.cs
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\App.g.cs
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest_MarkupCompile.cache
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest_MarkupCompile.lref
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\Appointments.baml
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\HomeScreen.baml
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\InitialCapture.baml
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MainWindow.baml
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.g.resources
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.Properties.Resources.resources
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.csproj.GenerateResource.Cache
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.csproj.CoreCompileInputs.cache
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.exe
+D:\CodingNinjas-master\Law Clinic Skeleton\GUI2\obj\Debug\MeansTest.pdb
